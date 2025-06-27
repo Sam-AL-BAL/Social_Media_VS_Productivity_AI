@@ -1,0 +1,4 @@
+#entorno virtual
+entorno/
+#cache
+__pycache__/
