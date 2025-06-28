@@ -52,6 +52,6 @@ if enviado:
     }])
 
     pred = utils.predecir(datos_usuario)
-    st.success(f"📌 Predicción de productividad estimada: {pred:.2f}")
+    st.success(f"📌 Predicción de productividad estimada: {pred:.2f} (0-10)")
 
 
